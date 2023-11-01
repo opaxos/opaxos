@@ -215,11 +215,11 @@ Some important benchmark configuration:
 We also provide the scripts to run OPaxos in actual distributed machines, 
 including scripts to generate some graphs shown in our paper.
 All the important variables to run all the distributed scripts are located in the `variables.sh` file.
-Please check the instructions to reproduce the graphs in the Wiki page.
+Please check the instructions to reproduce the graphs in the [Wiki](https://github.com/opaxos/opaxos/wiki/) page.
 
 ## Model Checker
 Additionally, we provide the TLA+ specification of OPaxos and model check 
-the protocol to ensure its safety property. Please check the TLA+ code in the Wiki page. 
+the protocol to ensure its safety property. Please check the TLA+ code in https://github.com/opaxos/opaxos-tla. 
 
 ## Acknowledgement
 This prototype of OPaxos and Fast-OPaxos is possible due to 
