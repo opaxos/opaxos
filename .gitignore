@@ -1,2 +1,5 @@
 .idea
 .DS_Store
+bin/client
+bin/cmd
+bin/server
