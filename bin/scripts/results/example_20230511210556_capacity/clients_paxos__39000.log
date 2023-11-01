@@ -1,0 +1,44 @@
+[INFO] 2023/05/11 19:13:25.064356 benchmark.go:508: Client-5 runtime = 30.000240419s
+[INFO] 2023/05/11 19:13:25.064657 benchmark.go:509: Client-5 request-rate = 3900.035412
+[INFO] 2023/05/11 19:13:25.064355 benchmark.go:508: Client-10 runtime = 30.000243146s
+[INFO] 2023/05/11 19:13:25.064737 benchmark.go:509: Client-10 request-rate = 3900.035057
+[INFO] 2023/05/11 19:13:25.064783 benchmark.go:421: finish sending, received 116997 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.064365 benchmark.go:508: Client-4 runtime = 30.000248218s
+[INFO] 2023/05/11 19:13:25.064829 benchmark.go:509: Client-4 request-rate = 3900.034398
+[INFO] 2023/05/11 19:13:25.064383 benchmark.go:508: Client-6 runtime = 30.000246852s
+[INFO] 2023/05/11 19:13:25.064886 benchmark.go:509: Client-6 request-rate = 3900.034576
+[INFO] 2023/05/11 19:13:25.064391 benchmark.go:508: Client-7 runtime = 30.000232905s
+[INFO] 2023/05/11 19:13:25.064931 benchmark.go:421: finish sending, received 116997 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.064933 benchmark.go:509: Client-7 request-rate = 3900.036389
+[INFO] 2023/05/11 19:13:25.064959 benchmark.go:421: finish sending, received 116997 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.064434 benchmark.go:508: Client-8 runtime = 30.000249919s
+[INFO] 2023/05/11 19:13:25.065008 benchmark.go:509: Client-8 request-rate = 3900.034177
+[INFO] 2023/05/11 19:13:25.065024 benchmark.go:421: finish sending, received 116998 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.064444 benchmark.go:508: Client-1 runtime = 30.000234258s
+[INFO] 2023/05/11 19:13:25.065073 benchmark.go:509: Client-1 request-rate = 3900.036213
+[INFO] 2023/05/11 19:13:25.064468 benchmark.go:508: Client-9 runtime = 30.000264816s
+[INFO] 2023/05/11 19:13:25.065114 benchmark.go:509: Client-9 request-rate = 3900.032240
+[INFO] 2023/05/11 19:13:25.065089 benchmark.go:421: finish sending, received 116998 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.064860 benchmark.go:421: finish sending, received 116997 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.064423 benchmark.go:508: Client-2 runtime = 30.000239217s
+[INFO] 2023/05/11 19:13:25.065195 benchmark.go:509: Client-2 request-rate = 3900.035568
+[INFO] 2023/05/11 19:13:25.064518 benchmark.go:508: Client-3 runtime = 30.000316166s
+[INFO] 2023/05/11 19:13:25.065249 benchmark.go:509: Client-3 request-rate = 3900.025565
+[INFO] 2023/05/11 19:13:25.064700 benchmark.go:421: finish sending, received 116997 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.065275 benchmark.go:421: finish sending, received 117000 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.065156 benchmark.go:421: finish sending, received 116998 from 117002, incoming response: 1
+[INFO] 2023/05/11 19:13:25.065222 benchmark.go:421: finish sending, received 116999 from 117002, incoming response: 0
+[INFO] 2023/05/11 19:13:25.524301 benchmark.go:522: Concurrency = 10
+[INFO] 2023/05/11 19:13:25.524338 benchmark.go:523: Write Ratio = 1.000000
+[INFO] 2023/05/11 19:13:25.524345 benchmark.go:524: Number of Keys = 9
+[INFO] 2023/05/11 19:13:25.524353 benchmark.go:525: Benchmark Time = 30.00141801s
+[INFO] 2023/05/11 19:13:25.524360 benchmark.go:526: Throughput = 38998.823309
+[INFO] 2023/05/11 19:13:25.524391 benchmark.go:527: size = 1170020
+mean = 1.832413
+stddev = 2.139006
+min = 0.237002
+max = 14.131858
+median = 0.818055
+p95 = 6.930644
+p99 = 8.965696
+p999 = 11.234563

@@ -1,0 +1,87 @@
+0	write	100	{"state":"on","last_update":"2019-04-25_19:21:40"}
+230000000	write	100	{"state":"on","last_update":"2019-04-25_19:25:30"}
+438000000	write	100	{"state":"off","last_update":"2019-04-25_19:28:58"}
+1476000000	write	100	{"state":"action_b","last_update":"2019-04-25_19:46:16","duration":"41s"}
+1536000000	write	100	{"state":"action_b","last_update":"2019-04-25_19:47:16","duration":"40s"}
+1589000000	write	100	{"state":"action_b","last_update":"2019-04-25_19:48:09","duration":"53s"}
+93037000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:12:17","duration":"37s"}
+93075000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:12:55","duration":"35s"}
+93142000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:14:02","duration":"39s"}
+93182000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:14:42","duration":"35s"}
+93249000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:15:49","duration":"39s"}
+93288000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:16:28","duration":"36s"}
+93356000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:17:36","duration":"39s"}
+93395000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:18:15","duration":"36s"}
+93462000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:19:22","duration":"39s"}
+93607000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:21:47","duration":"36s"}
+93675000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:22:55","duration":"39s"}
+93781000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:24:41","duration":"39s"}
+93885000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:26:25","duration":"34s"}
+93920000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:27:00","duration":"31s"}
+93980000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:28:00","duration":"34s"}
+94014000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:28:34","duration":"31s"}
+94074000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:29:34","duration":"34s"}
+94108000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:30:08","duration":"31s"}
+94168000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:31:08","duration":"34s"}
+94202000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:31:42","duration":"31s"}
+94557000000	read	100	
+94589000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:38:09","duration":"39s"}
+94628000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:38:48","duration":"36s"}
+94664000000	read	100	
+94695000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:39:55","duration":"40s"}
+94735000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:40:35","duration":"35s"}
+94771000000	read	100	
+94802000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:41:42","duration":"40s"}
+94842000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:42:22","duration":"34s"}
+94877000000	read	100	
+94908000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:43:28","duration":"39s"}
+94948000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:44:08","duration":"35s"}
+94983000000	read	100	
+95015000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:45:15","duration":"39s"}
+95054000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:45:54","duration":"36s"}
+95090000000	read	100	
+95121000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:47:01","duration":"40s"}
+95161000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:47:41","duration":"35s"}
+95197000000	read	100	
+95228000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:48:48","duration":"40s"}
+95268000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:49:28","duration":"35s"}
+95303000000	read	100	
+95335000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:50:35","duration":"38s"}
+95373000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:51:13","duration":"35s"}
+95409000000	read	100	
+95478000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:52:58","duration":"35s"}
+95513000000	read	100	
+95545000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:54:05","duration":"39s"}
+95585000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:54:45","duration":"35s"}
+95620000000	read	100	
+95652000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:55:52","duration":"39s"}
+95692000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:56:32","duration":"35s"}
+95727000000	read	100	
+95759000000	write	100	{"state":"action_a","last_update":"2019-04-26_21:57:39","duration":"38s"}
+95797000000	write	100	{"state":"action_b","last_update":"2019-04-26_21:58:17","duration":"36s"}
+95833000000	read	100	
+95903000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:00:03","duration":"35s"}
+95938000000	read	100	
+95970000000	write	100	{"state":"action_a","last_update":"2019-04-26_22:01:10","duration":"39s"}
+96010000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:01:50","duration":"35s"}
+96076000000	write	100	{"state":"action_a","last_update":"2019-04-26_22:02:56","duration":"39s"}
+96115000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:03:35","duration":"36s"}
+96151000000	read	100	
+96221000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:05:21","duration":"35s"}
+96256000000	read	100	
+96325000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:07:05","duration":"36s"}
+96366000000	read	100	
+96397000000	write	100	{"state":"action_a","last_update":"2019-04-26_22:08:17","duration":"40s"}
+96437000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:08:57","duration":"36s"}
+96505000000	write	100	{"state":"action_a","last_update":"2019-04-26_22:10:05","duration":"41s"}
+96546000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:10:46","duration":"37s"}
+96583000000	read	100	
+96615000000	write	100	{"state":"action_a","last_update":"2019-04-26_22:11:55","duration":"41s"}
+96691000000	read	100	
+96722000000	write	100	{"state":"action_a","last_update":"2019-04-26_22:13:42","duration":"40s"}
+96763000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:14:23","duration":"36s"}
+96800000000	read	100	
+96871000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:16:11","duration":"37s"}
+96908000000	read	100	
+96940000000	write	100	{"state":"action_a","last_update":"2019-04-26_22:17:20","duration":"40s"}
+96980000000	write	100	{"state":"action_b","last_update":"2019-04-26_22:18:00","duration":"37s"}

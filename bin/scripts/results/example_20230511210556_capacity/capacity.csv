@@ -1,0 +1,24 @@
+runtime(s), algo, label, target_load(req/s), load(req/s), response_rate(req/s), load_diff, avg_lat(ms)
+30, paxos, paxos_, 1000, 1000.31, 1000.106673, .0200, 1.462504
+30, paxos, paxos_, 10000, 10000.3, 9999.897159, 0, 0.797361
+30, paxos, paxos_, 20000, 20000.3, 19999.611120, 0, 0.411209
+30, paxos, paxos_, 30000, 30000.2, 29998.979798, 0, 0.573642
+30, paxos, paxos_, 35000, 35000.3, 34998.991144, 0, 1.248206
+30, paxos, paxos_, 37000, 36999.9, 36998.596718, 0, 1.670752
+30, paxos, paxos_, 39000, 39000.3, 38998.823309, 0, 1.832413
+30, paxos, paxos_, 41000, 41000.3, 40997.989048, 0, 2.153538
+30, paxos, paxos_, 43000, 43000.2, 38250.693333, 11.0400, 1972.501353
+30, paxos, paxos_, 42000, 42000.3, 41997.464979, 0, 3.416134
+30, paxos, paxos_, 42500, 42500.2, 42498.688208, 0, 469.250713
+30, paxos, paxos_, 42750, 42750.3, 42740.465706, .0200, 116.432994
+30, paxos, paxos_, 42875, 42870, 42638.733634, .5300, 265.445802
+30, opaxos, opaxos_shamir, 1000, , , , 
+30, opaxos, opaxos_shamir, 10000, , , , 
+30, opaxos, opaxos_shamir, 20000, , , , 
+30, opaxos, opaxos_shamir, 30000, , , , 
+30, opaxos, opaxos_shamir, 35000, , , , 
+30, opaxos, opaxos_shamir, 37000, , , , 
+30, opaxos, opaxos_shamir, 39000, , , , 
+30, opaxos, opaxos_shamir, 41000, , , , 
+30, opaxos, opaxos_shamir, 43000, , , , 
+30, opaxos, opaxos_shamir, 45000, , , , 
